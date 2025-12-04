@@ -99,7 +99,7 @@ void loop()
 ## 🎬 Demo Video
 
 I have included a **demo video** in this repository showing the real hardware working.
-![Demo Video](https://drive.google.com/file/d/1LXzvP7Bqk9bIUsAibFopFrqsE1RTqo0G/view?usp=drivesdk)
+[Demo Video](https://drive.google.com/file/d/1LXzvP7Bqk9bIUsAibFopFrqsE1RTqo0G/view?usp=drivesdk)
 
 
 ## 📚 How It Works
